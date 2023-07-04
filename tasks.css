@@ -1,0 +1,49 @@
+body{
+  background-image: url("https://images.pexels.com/photos/2736499/pexels-photo-2736499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: ;
+}
+
+#add-section {
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: #614100;
+  font-size: 25px;
+}
+
+input {
+  padding: 7px;
+  font-size: 25px;
+  width: 300px;
+}
+
+#task-section {
+  margin: 0 auto;
+  width: 200px;
+  background-color: #fff7e6;
+  border-radius: 10px;
+  color: #404040;
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+
+li {
+  padding: 8px;
+}
+
+li:hover {
+  cursor: no-drop;
+  text-decoration: line-through;
+  color: red;
+}
+
+p{
+  color:red;
+  font-size: 15px;
+}
